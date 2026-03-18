@@ -38,7 +38,7 @@ A fitness tracking and community app with modern dashboards, glowing UI, and per
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:bharathkulal2007@gmail.com)
 
 ---
 
