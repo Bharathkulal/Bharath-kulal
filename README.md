@@ -30,12 +30,11 @@ A fitness tracking and community app with modern dashboards, glowing UI, and per
 
 ---
 
-## 📊 GitHub Stats
-![Bharath’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath%20kulal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath%20kulal&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharath%20kulal&theme=radical)
 
----
+## 📊 GitHub Stats
+![Bharath’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathkulal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathkulal&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathkulal&theme=radical)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
